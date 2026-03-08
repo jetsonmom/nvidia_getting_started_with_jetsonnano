@@ -2,5 +2,6 @@
 
 ---
 
-
-- 내용을 여기에 자유롭게 추가하세요.
+- [딥러닝 용어집](./01_image_classification/nvidia_dl_terms.md)
+- [이미지 분류 노트](./01_image_classification/notes.md)
+- [이미지 회귀 노트](./02_image_regression/notes.md)
