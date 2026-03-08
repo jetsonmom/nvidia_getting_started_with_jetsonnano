@@ -1,3 +1,29 @@
+
+
+
+
+
+
+
+
+
+
+
+
+01_image_classification/notes.md
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🖼️ NVIDIA DLI - 이미지 분류 & 이미지 회귀 핵심 용어 정리
 
 > NVIDIA Deep Learning Institute (DLI) 자기주도학습 대비 용어집
