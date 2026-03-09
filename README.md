@@ -1,5 +1,5 @@
 #  NVIDIA DLI - Getting Started with Deep Learning
-
+cdd
 ---
 
 - [딥러닝 용어집](./01_image_classification/nvidia_dl_terms.md)
